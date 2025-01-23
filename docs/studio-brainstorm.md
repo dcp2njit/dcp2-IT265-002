@@ -4,11 +4,11 @@
 - **Primary Ideas:**
   - [Paradisium]
   - [Ludux]
-  - []
+  - [Retrojunk Studios]
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - [Plorp Studios]
+  - [Plorp Interactive]
+  - []
 
 - **Chosen Name**:
 - **About the name**:
