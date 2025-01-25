@@ -11,26 +11,26 @@
   - [Glorp Games]
 
 - **Chosen Name**:
-- Retrojunk Studios
+  - Retrojunk Studios
   
 - **About the name**:
-- Retrojunk is a name I came up with back in 2015 for a Roblox clothing group I ran with 2 of my close friends. I really liked the name because I'm really big on things that evoke nostalgia, hence the use of "retro". The word "junk" holds a lot of different meanings to me: 1. It's a cute word, so is the word retro, 2. I'm the type of person that gets sentimental about items most people would consider junk, and 2. I personally never really think most of the stuff I make is that good so it makes me feel better to preface my creations with the word "junk" being in the studio name.
+  - Retrojunk is a name I came up with back in 2015 for a Roblox clothing group I ran with 2 of my close friends. I really liked the name because I'm really big on things that evoke nostalgia, hence the use of "retro". The word "junk" holds a lot of different meanings to me: 1. It's a cute word, so is the word retro, 2. I'm the type of person that gets sentimental about items most people would consider junk, and 2. I personally never really think most of the stuff I make is that good so it makes me feel better to preface my creations with the word "junk" being in the studio name.
 
 - **Social Medias with name available**:
--  The handle @retrojunkstudios is available on most social media platforms;
--  Twitter
--  Instagram
--  Youtube
--  Tiktok
--  Facebook
--  Pinterest
--  Reddit
+  -  The handle @retrojunkstudios is available on most social media platforms;
+  -  Twitter
+  -  Instagram
+  -  Youtube
+  -  Tiktok
+  -  Facebook
+  -  Pinterest
+  -  Reddit
   
 - **Possible domain names available**:
--  retrojunkstudios.com is available
--  retrojunkstudios.net is available
--  retrojunk.net is a available
--  retrojunk.gg is available
+  -  retrojunkstudios.com is available
+  -  retrojunkstudios.net is available
+  -  retrojunk.net is a available
+  -  retrojunk.gg is available
   
 ---
 
@@ -103,5 +103,5 @@
 
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
-I'm still not 100% on any of these ideas, especially in terms of what kind of style I want my game to have and what kind of game I want to make
+- I'm still not 100% on any of these ideas, especially in terms of what kind of style I want my game to have and what kind of game I want to make
 > [Free space for brainstorming!]
