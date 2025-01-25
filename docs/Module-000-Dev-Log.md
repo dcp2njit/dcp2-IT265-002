@@ -1,26 +1,25 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Denise
+### Module: 001
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [01/27/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
+- [ ] Goal 1: Decide on a Studio Name
+- [ ] Goal 2: Come up with a list of board games / card games to take inspiration from
+- [ ] Goal 3: Complete Brainstorm Document
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
+  - Decided on a studio name and completed a good chunk of the brainstorm document - 1/24/25
+
   - <!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
+  - Having some difficulty settling on a particular style to follow through with, both in terms of visual and game design
   -  <!--Your entry here or N/A if not applicable for this entry-->
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
+  - Going to have to list out my options and do process of elimination in terms of uniqueness and scope.
   -  <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Learnings
