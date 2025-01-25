@@ -6,7 +6,7 @@
 ### Date: [01/27/2025]
 
 #### Goals for this Module
-- [ ] Goal 1: Decide on a Studio Name
+- [x] Goal 1: Decide on a Studio Name
 - [ ] Goal 2: Come up with a list of board games / card games to take inspiration from
 - [ ] Goal 3: Complete Brainstorm Document
 
