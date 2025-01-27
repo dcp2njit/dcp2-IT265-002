@@ -24,13 +24,14 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
-
+  - We discussed the concept of a game and gameplay, and how to define each.
+  - A game is defined by gameplay, which in order to be good should have engaging, interesting, and/or meaningful interactions and choices for the player to make. Fancy visuals and graphics don't automatically makes a game or its gameplay good.
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 -  <!--Your entry here or N/A if not applicable for this entry-->
-<!--
-
+  - What if I remade an existing card/board game, but with a style that has never been done before?
+  - Maybe it can be a game that people don't normally play, such as Pekwa, a Filipino card game, to share some of my culture to different audiences and evoke nostalgia in Filipinos who have played this game before as it's an old school card game.
+<!--  
 - Example prompts:
   - "What if the player interactions were asynchronous instead of real-time?"
   - "How could ECS improve performance in this system?"
@@ -41,3 +42,4 @@
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
 -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  I need to work on my abiliity to brainstorm. (lol)
