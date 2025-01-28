@@ -64,7 +64,7 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- Strategy / Puzzle Games
+- Strategy / Puzzle Games (maybe old/obscure ones)
 - Minimalistic, Retro, Cute, Frutiger Aero/Metro, Y2K
 
 ---
@@ -73,7 +73,9 @@
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
 > [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
-> The combination of nostalgic styles/aesthetics with 
+  > The combination of nostalgic styles/aesthetics with the inspired board/card game
+  > If I were to use the old school Filipino card game Pekwa, I think that alone would make it stand out as it's a card game not really known by the general public. Integrating a game like with aesthetics that take inspiration from either a certain era or style may stand out even more.
+
 
 ---
 
@@ -93,13 +95,15 @@
 
 - **Logo Style:** Geometric/Minimalist OR Maximalist style utilizing retro aesthetics (Frutiger Aero/Metro, Y2k)
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
-
+  - Tagline 1: Nostalgia Reimagined
+  - Tagline 2: Nostalgic Fun for Everyone
+  - Tagline 3: Nostalgic Fun
+  - Tagline 4: Nostalgia Redefined
+  
 -- **Sketches/Logo**:
 
----
+---![logosketch](https://github.com/user-attachments/assets/2d5a8381-3c22-4413-97bd-0974d5677984)
+
 
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
