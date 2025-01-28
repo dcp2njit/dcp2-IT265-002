@@ -28,6 +28,7 @@
 - Key insights, techniques, or concepts explored.
   - We discussed the concept of a game and gameplay, and how to define each.
   - A game is defined by gameplay, which in order to be good should have engaging, interesting, and/or meaningful interactions and choices for the player to make. Fancy visuals and graphics don't automatically makes a game or its gameplay good.
+
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
     <!--Your entry here or N/A if not applicable for this entry-->
