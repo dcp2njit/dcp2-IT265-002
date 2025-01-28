@@ -72,7 +72,6 @@
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
   > The combination of nostalgic styles/aesthetics with the inspired board/card game
   > If I were to use the old school Filipino card game Pekwa, I think that alone would make it stand out as it's a card game not really known by the general public. Integrating a game like with aesthetics that take inspiration from either a certain era or style may stand out even more.
 
@@ -108,4 +107,4 @@
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
 - I'm still not 100% on any of these ideas, especially in terms of what kind of style I want my game to have and what kind of game I want to make
-> [Free space for brainstorming!]
+
