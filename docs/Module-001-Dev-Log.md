@@ -36,13 +36,12 @@
   - Maybe it can be a game that people don't normally play, such as Pekwa, a Filipino card game, to share some of my culture to different audiences and evoke nostalgia in Filipinos who have played this game before as it's an old school card game.
     - Then maybe I can incorporate the "retro" styles I really like with the design of the game.
     - Are these enough to make it unique? Or is it necessary to add some sort of twist/modification to the gameplay?
-<!--  
-- Example prompts:
+
+<!--  - Example prompts:
   - "What if the player interactions were asynchronous instead of real-time?"
   - "How could ECS improve performance in this system?"
   - "Does my current design support scalability? How can it improve?"
-  
--->
+  -->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
