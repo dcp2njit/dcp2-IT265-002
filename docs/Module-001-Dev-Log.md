@@ -37,12 +37,6 @@
     - Then maybe I can incorporate the "retro" styles I really like with the design of the game.
     - Are these enough to make it unique? Or is it necessary to add some sort of twist/modification to the gameplay?
 
-<!--  - Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  -->
-
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
    <!--Your entry here or N/A if not applicable for this entry-->
