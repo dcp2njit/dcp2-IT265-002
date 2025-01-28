@@ -65,7 +65,7 @@
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
 - Strategy / Puzzle Games (maybe old/obscure ones)
-- Minimalistic, Retro, Cute, Frutiger Aero/Metro, Y2K
+  - Style: Minimalistic, Retro, Cute, Frutiger Aero/Metro, Y2K
 
 ---
 
