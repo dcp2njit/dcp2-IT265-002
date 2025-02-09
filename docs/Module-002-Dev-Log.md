@@ -34,14 +34,7 @@
   - If i were to make the game pekwa, I wouldn't be able to make it multiplayer, so I guess I would have to make AI opponents for the single player to play against?
   - Maybe there can be power up / wild cards to spice up the gameplay?
   - I think I want to do a frutiger aero / windows xp theme for the game, with hints of filipino culture hidden within the desktop, design, and gameplay
-<!--
 
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
