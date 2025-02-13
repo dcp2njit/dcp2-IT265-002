@@ -11,30 +11,28 @@
 
 #### Progress
 - **What I accomplished**:
-  - Decided on a studio name and completed a good chunk of the brainstorm document - 1/24/25
-  - Did not create full list of games to take inspo one, but I chose one I'm leaning towards which is the card game Pekwa.
-  - Completed Brainstorm Document - 1/27/25
+  - Read some of the book - 2/11/25
+  - Brainstorm some games to rip into for the case study discussion
 
    <!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
-  - Having some difficulty settling on a particular style to follow through with, both in terms of visual and game design
+  - N/A   
 
      <!--Your entry here or N/A if not applicable for this entry-->
 - **Solutions**:
-  - Going to have to list out my options and do process of elimination in terms of uniqueness and scope.
-
+  - N/A
      <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
   - We learned about look and feel in games, discussing the meaning of immersion, attention to detail, the effect that visual, sound, and touch has on the player experience and the cohesiveness of the game as a whole.
+  - We learned about color theory and its components. The importance of its consideration in games because of various purposes they serve, such as visual distinction and psychological impact. Different colors tend to represent different feelings and/or evoke certain emotions. It is useful to utilize in order to convey certain tones.
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
   - 
   <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
    <!--Your entry here or N/A if not applicable for this entry-->
-  -  I need to work on my abiliity to brainstorm. (lol)
+  - N/A
