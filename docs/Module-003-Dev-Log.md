@@ -6,13 +6,13 @@
 
 #### Goals for this Module
 - [x] Goal 1: Complete Case Study Discussion
-- [ ] Goal 2: Read more of the game arch and design book
-- [x] Goal 3: 
+- [X] Goal 2: Read more of the game arch and design book
 
 #### Progress
 - **What I accomplished**:
   - Read some of the book - 2/11/25
-  - Brainstorm some games to rip into for the case study discussion
+  - Brainstorm some games for the case study discussion
+  - Completed Case Study Discussion 2/16/25
 
    <!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
