@@ -12,7 +12,7 @@
 - **What I accomplished**:
   - Read some of the book - 2/11/25
   - Brainstorm some games for the case study discussion
-  - Completed Case Study Discussion 2/16/25
+  - Completed Case Study Discussion 2/17/25
 
    <!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
@@ -29,7 +29,7 @@
   - We learned about color theory and its components. The importance of its consideration in games because of various purposes they serve, such as visual distinction and psychological impact. Different colors tend to represent different feelings and/or evoke certain emotions. It is useful to utilize in order to convey certain tones.
 
 #### Free Thinking
-  - 
+  - N/A
   <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Next Steps
