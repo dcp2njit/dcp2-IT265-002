@@ -7,7 +7,7 @@
 #### Goals for this Module
 - [X] Complete Color Theory case study
 - [X] Continue reading the textbook
-- [X] Look over slides for missed presentation (Game Mechanics)
+- [X] Look over slides
 - [X] Make sketch for game color scheme redesign
 
 
@@ -19,7 +19,7 @@
 ![image](https://github.com/user-attachments/assets/bec7f82f-40ac-4532-b380-03bfd2a3b39b)
 ![image](https://github.com/user-attachments/assets/28d6f98b-e88f-46fb-97c9-ec7317554c6e)
     - Completed Color Theory Case Study assignment 2/22
-    - Looked over slides for missed presentation since I wasn't able to come to campus on thursday - 2/22
+    - Looked over slides for game mechanics and color theory to help with assignment - 2/22
 - **Challenges faced**:
   - N/A
 - **Solutions**:
@@ -27,19 +27,10 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-  - Learned about color theory and the impact of
+  - Learned about color theory and game mechanics. The importance of choosing certain color schemes and how they can affect a game's look and feel. The different kind of games and the mechanics that define the genres, as well as how they each uniquely and similarly reward and engage players.
+  - The case study really solidified the concept of color theory being used in games and the various impacts it has.
+
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
-
+- N/A
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- I need to start thinking harder about what kind of game I want to make and solidify some ideas.
