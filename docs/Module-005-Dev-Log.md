@@ -6,8 +6,8 @@
 ### Date: [3/5/2025]
 
 #### Goals for this Module
-- [x] Goal 1: Decide on a Studio Name
-- [ ] Goal 2: Come up with a list of board games / card games to take inspiration from
+- [x] Goal 1: Work on the treatment
+- [ ] Goal 2: Brainstorm ideas for the game treatment
 - [x] Goal 3: Complete Brainstorm Document
 
 #### Progress
@@ -32,10 +32,8 @@
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
     <!--Your entry here or N/A if not applicable for this entry-->
-  - What if I remade an existing card/board game, but with a style that has never been done before?
-  - Maybe it can be a game that people don't normally play, such as Pekwa, a Filipino card game, to share some of my culture to different audiences and evoke nostalgia in Filipinos who have played this game before as it's an old school card game.
-    - Then maybe I can incorporate the "retro" styles I really like with the design of the game.
-    - Are these enough to make it unique? Or is it necessary to add some sort of twist/modification to the gameplay?
+  - After looking into it more I think the idea to use Pekwa isn't going to be as viable as I thought it would be, especially since it is typically played with more than 2 players
+  - Another card game I started looking into is Spit.
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
