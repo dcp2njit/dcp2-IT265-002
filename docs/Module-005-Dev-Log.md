@@ -6,34 +6,35 @@
 ### Date: [3/5/2025]
 
 #### Goals for this Module
-- [x] Goal 1: Work on the treatment
-- [ ] Goal 2: Brainstorm ideas for the game treatment
+- [x] Goal 1: Work on the design treatment template
+- [x] Goal 2: Brainstorm ideas for the game treatment
 - [x] Goal 3: Complete Brainstorm Document
 
 #### Progress
 - **What I accomplished**:
-  - Decided on a studio name and completed a good chunk of the brainstorm document - 1/24/25
-  - Did not create full list of games to take inspo one, but I chose one I'm leaning towards which is the card game Pekwa.
-  - Completed Brainstorm Document - 1/27/25
+  - While trying to brainstorm I drew up a concept image of the kind of aesthetic I'd want for the game
+![uhq5zTcMPM3tOW_fbUz4PayDt_5pkEXdyXXoRWs3XOg](https://github.com/user-attachments/assets/7aa6d947-5759-434d-8318-4b55be0cbec8)
+  - Set up and filled out some of the template to help with the treatment
+
 
    <!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
-  - Having some difficulty settling on a particular style to follow through with, both in terms of visual and game design
+N/A
      <!--Your entry here or N/A if not applicable for this entry-->
 - **Solutions**:
-  - Going to have to list out my options and do process of elimination in terms of uniqueness and scope.
+N/A
      <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-  - We discussed the concept of a game and gameplay, and how to define each.
-  - A game is defined by gameplay, which in order to be good should have engaging, interesting, and/or meaningful interactions and choices for the player to make. Fancy visuals and graphics don't automatically makes a game or its gameplay good.
+  - We discussed the inclusion of depth, complexity, and randomness in games, comparing how they each impact the experience of gameplay as well as how games balance them as to not overwhelm players. When utilized correctly, randomness can enhance strategy and make the game more fun and replayable. Balancing depth and complexity can further engage players with meaningful choices and gameplay.
+  - We also discussed planning and management when it comes to designing and developing a game, and important stages and concepts to consider throughout the process.
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
     <!--Your entry here or N/A if not applicable for this entry-->
-  - After looking into it more I think the idea to use Pekwa isn't going to be as viable as I thought it would be, especially since it is typically played with more than 2 players
-  - Another card game I started looking into is Spit.
+  - After looking into it more I think the idea to use Pekwa isn't going to be as viable as I thought it would be, especially since it is typically played with more than 2 players unless I find a way to modify the game rules to make 2 player pekwa make sense. If I were to make AI players, maybe I could make 3?
+  - Another card game I started looking into is Spit, which can be played with two players but is more focused on speed rather than strategy.
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
