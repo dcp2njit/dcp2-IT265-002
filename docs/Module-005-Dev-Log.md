@@ -8,13 +8,12 @@
 #### Goals for this Module
 - [x] Goal 1: Work on the design treatment template
 - [x] Goal 2: Brainstorm ideas for the game treatment
-- [x] Goal 3: Complete Brainstorm Document
 
 #### Progress
 - **What I accomplished**:
-  - While trying to brainstorm I drew up a concept image of the kind of aesthetic I'd want for the game
+  - While trying to brainstorm I drew up a concept image of the kind of aesthetic I'd want for the game 2/27/25
 ![uhq5zTcMPM3tOW_fbUz4PayDt_5pkEXdyXXoRWs3XOg](https://github.com/user-attachments/assets/7aa6d947-5759-434d-8318-4b55be0cbec8)
-  - Set up and filled out some of the template to help with the treatment
+  - Set up and filled out some of the template to help with the treatment 3/1/25
 
 
    <!--Your entry here or N/A if not applicable for this entry-->
@@ -35,8 +34,11 @@ N/A
     <!--Your entry here or N/A if not applicable for this entry-->
   - After looking into it more I think the idea to use Pekwa isn't going to be as viable as I thought it would be, especially since it is typically played with more than 2 players unless I find a way to modify the game rules to make 2 player pekwa make sense. If I were to make AI players, maybe I could make 3?
   - Another card game I started looking into is Spit, which can be played with two players but is more focused on speed rather than strategy.
+  - I'll have to think more about this and come to a decision (I'm so indecisive)
+  - I was also thinking maybe I could think of something to turn into a board game, but nothing has really come to mind
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
    <!--Your entry here or N/A if not applicable for this entry-->
-  -  I need to work on my abiliity to brainstorm. (lol)
+  -  Gonna continue brainstorming and filling out the treatment template / final page
+  -  Also going to start looking over the concepts we learned as the midterm date is approaching
