@@ -4,8 +4,6 @@
 
 ## Title
 
-Pekwall
-Pekwar
 
 <!-- 
 Enter the name of your game concept. 
@@ -27,10 +25,9 @@ This should convey what makes your game unique in a compelling way.
 
 ## Genre and Style
 
+
 ### Genre
-
-Strategy card game
-
+Roguelike Strategy game
 <!-- 
 Specify the game's genre (e.g., action, adventure, strategy, puzzle). 
 Mention any sub-genres if applicable. 
@@ -38,7 +35,9 @@ Mention any sub-genres if applicable.
 
 ### Style
 
-A retro windows OS / frutiger aero / y2k visual style
+Isometric / pixelated (for digital)
+set in a post-apocalyptic city
+
 
 
 <!-- 
@@ -50,6 +49,7 @@ Examples: "A dark, gothic horror with hand-drawn 2D animation" or
 ---
 
 ## Target Audience
+12+
 
 ### Demographics
 <!-- 
@@ -83,7 +83,10 @@ Explain how they contribute to the game's challenge and fun.
 <!-- 
 Detail what players aim to achieve and the obstacles they must overcome. 
 Explain how these challenges drive player engagement. 
+
 -->
+
+Goal - Reach your destination
 
 ### Progression
 <!-- 
@@ -100,6 +103,8 @@ Ensure they are clear, structured, and intuitive.
 ---
 
 ## Story and Setting
+
+
 
 ### Setting
 <!-- 
