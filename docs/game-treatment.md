@@ -27,7 +27,12 @@ This should convey what makes your game unique in a compelling way.
 
 
 ### Genre
-Roguelike Strategy game
+Roguelike Strategy Survival Game
+
+
+- Resource Management
+
+
 <!-- 
 Specify the game's genre (e.g., action, adventure, strategy, puzzle). 
 Mention any sub-genres if applicable. 
