@@ -14,7 +14,7 @@ Make it concise yet engaging, reflecting the game's essence.
 
 ## Concept Statement
 
-
+In this roguelike survival games set in a futuristic post-apocalyptic city in the midst of rebuilding, you play as a rescuer that must strategically traverse the city to respond to distress calls in randomized locations, managing your health, energy, and supplies within a limited amount of turns while avoiding/overcoming unpredictable hazards through dice and card-driven events.
 
 <!-- 
 Provide a one-sentence summary that captures the core idea of your game. 
@@ -30,7 +30,8 @@ This should convey what makes your game unique in a compelling way.
 Roguelike Strategy Survival Game
 
 
-- emphasis on resource management, tactical movement
+- resource management
+- tactical movement
 
 
 <!-- 
@@ -41,6 +42,7 @@ Mention any sub-genres if applicable.
 ### Style
 
 Dark, muted color palette for the environment to match the tone of the setting, with - a post-apocalyptic city with urban decay, crumbling infrastructure, and desperate survivors seeking rescue
+
 
 
 Isometric / pixelated (for digital) 
@@ -57,7 +59,6 @@ Examples: "A dark, gothic horror with hand-drawn 2D animation" or
 ---
 
 ## Target Audience
-12+
 
 ### Demographics
 <!-- 
@@ -67,25 +68,27 @@ Mention if your game appeals to casual or hardcore players.
 
 Age Group: 12+
 Interests: Survival/Apocalypse Games, Roguelikes, Turn-based Strategy games.
-Gamer Profile: Fans if 
+Gamer Profile: Fans of tactical games, roguelikes, and survival challenges
+
+The game can appeal to both casual and hardcore players, as difficulty can be adjusted to suit player preferences.
 
 ### Accessibility
 <!-- 
 Describe how the game will accommodate different skill levels. 
 Will there be difficulty modes, tutorials, assistive options, etc.? 
 -->
-There will be 
-The game will include multiple difficulties to appeal to newbies, casuals, and hardcore players.
+= There will be clear icons/symbols and high contrast for the important/interactable assets of the game to make it easy for all players to identify and distinguish in both digital and physical formats.
+= The game will include multiple difficulties to appeal to newbies, casuals, and hardcore players.
 There will be a gradual learning curve, as the initial survivor will always be the easiest to help introduce and familiarize the player with the resource management, dice, and card mechanics before it becomes increasingly difficult.
-The game rules will be written out to be referred to at any time and the game will not be super rigid, meaning players can alter the game rules as they like to play it how they want, or adjust it to be both easier or challenging.
+- The game rules will be written out to be referred to at any time and the game will not be super rigid, meaning players can alter the game rules as they like to play it how they want, or adjust it to be both easier or challenging.
 
 ### Inclusivity Strategies
 <!-- 
 Explain how the game promotes inclusivity. 
 Consider gender representation, cultural diversity, and accessibility features for disabled players. 
 -->
-
-Utilization of universal symbols for accessibility across different languages and comprehension/reading levels.
+The game will not have a fixed protagonist and there are no cultural or gender restrictions in theming. 
+The game will be set in a fictional post-apocalyptic, utilizing universal symbols and high contrast visuals for easy comprehension and identifiability across different languages.
 
 
 ---
