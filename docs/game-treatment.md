@@ -30,7 +30,7 @@ This should convey what makes your game unique in a compelling way.
 Roguelike Strategy Survival Game
 
 
-- Resource Management
+- emphasis on resource management, tactical movement
 
 
 <!-- 
@@ -40,8 +40,11 @@ Mention any sub-genres if applicable.
 
 ### Style
 
-Isometric / pixelated (for digital)
-set in a post-apocalyptic city
+Dark, muted color palette for the environment to match the tone of the setting, with - a post-apocalyptic city with urban decay, crumbling infrastructure, and desperate survivors seeking rescue
+
+
+Isometric / pixelated (for digital) 
+Physical - 3D modeled or printed with illustrations
 
 
 
@@ -62,17 +65,28 @@ Identify the target age group, interests, and gamer profile.
 Mention if your game appeals to casual or hardcore players. 
 -->
 
+Age Group: 12+
+Interests: Survival/Apocalypse Games, Roguelikes, Turn-based Strategy games.
+Gamer Profile: Fans if 
+
 ### Accessibility
 <!-- 
 Describe how the game will accommodate different skill levels. 
 Will there be difficulty modes, tutorials, assistive options, etc.? 
 -->
+There will be 
+The game will include multiple difficulties to appeal to newbies, casuals, and hardcore players.
+There will be a gradual learning curve, as the initial survivor will always be the easiest to help introduce and familiarize the player with the resource management, dice, and card mechanics before it becomes increasingly difficult.
+The game rules will be written out to be referred to at any time and the game will not be super rigid, meaning players can alter the game rules as they like to play it how they want, or adjust it to be both easier or challenging.
 
 ### Inclusivity Strategies
 <!-- 
 Explain how the game promotes inclusivity. 
 Consider gender representation, cultural diversity, and accessibility features for disabled players. 
 -->
+
+Utilization of universal symbols for accessibility across different languages and comprehension/reading levels.
+
 
 ---
 
