@@ -30,7 +30,7 @@ This should convey what makes your game unique in a compelling way.
 
 
 ### Genre
-Roguelike Strategy Survival Game
+Roguelike Strategy Survival Board Game
 
 
 - resource management
@@ -110,10 +110,10 @@ Consider gender representation, cultural diversity, and accessibility features f
 - **Dice Rolling for **Randomization****
   - Randomized coordiantes for distress calls
   - Hazardous encounters - Dice roll (or coin flip) for deciding the outcomes of risky actions (engaging with zombies and other hostiles, navigating/looting dangerous terrain, etc.)
-- **Resource Management**
+- **Resource Management System**
   -  Action Points - spendable points that replenish (+2/3) each turn, can be stacked if points arent all used at end of turn.
-      - Used for movement - consumes mech fuel + AP
-      - Used for actions -  consumes energy + AP
+      - Used for movement - consumes mech fuel and AP
+      - Used for actions -  consumes energy and AP
   -  Health - player's physical condition;
       -  -health for bad encounters with zombies/hazards
       -  +health for consuming medkits
@@ -147,8 +147,8 @@ Explain how they contribute to the game's challenge and fun.
 -->
 
 - Movement System
-  - The board is an isometric city grid with X and Y coordinates
-  - Distress Call locations are determined by TWO d6 dice rolls;
+  - The board is an isometric 6x6 city grid with X and Y coordinates
+  - Distress Call locations are determined by **TWO** d6 dice rolls;
     - 1 roll for X-coordinate
     - 1 roll for y-coordinate
   - Player moves are turn-based
@@ -156,7 +156,7 @@ Explain how they contribute to the game's challenge and fun.
       - Moving straight in any direction costs 1 AP and 1 fuel
       - Moving diagonally costs 2 AP and 1 fuel
   - Mech can be upgraded if a survivor posesses the skill to do so.
-    - consumption of action points, energy, and an extra turn, but is an investment as it can mean less fuel/AP consumption for larger moves in future turns
+    - consumption of action points, energy, and an extra turn, but is an investment that can mean less fuel/AP consumption for larger moves in future turns
 
 
 ### Goals and Challenges
@@ -176,7 +176,7 @@ Challenges:
 - Limited turns - Limited turns simulates the time constraint and sense of urgency of the player's situation, prompting them to make strategic moves and decisions. 
 - Scare resource management - managing limited Action Points(AP), fuel, health, and supplies forces strategic choices
 - Dynamic Hazards - Unpredictable events and encounters with zombies, hostile survivors, stractural hazards create dangerous obstacles for players to navigate and adapt to.
-- Risk vs. Reward Decisions - Choosing which, when, and how to rescue survivors is difficult considering the significant impact it has on resource consumption and exposure to hazards.
+- Risk vs. Reward Decisions -You can rescue and drop off survivors in bulk, or one by one, or a mix of both. Choosing which, when, and how to rescue and drop off survivors is difficult considering the significant impact it has on resource consumption and exposure to hazards.
 
 ### Progression
 <!-- 
