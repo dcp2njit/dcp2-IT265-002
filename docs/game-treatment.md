@@ -4,6 +4,8 @@
 
 ## Title
 
+Mech-U Rescue
+Protocall
 
 <!-- 
 Enter the name of your game concept. 
@@ -108,13 +110,23 @@ The game will be set in a fictional post-apocalyptic, utilizing universal symbol
   - Randomized coordiantes for distress calls
   - Hazardous encounters - Dice roll (or coin flip) for deciding the outcomes of risky actions (engaging with zombies and other hostiles, navigating/looting dangerous terrain, etc.)
 - **Resource Management**
-  -  Action Points - spendable points that replenish (+2/3) each turn
-    - Used for movement - consumes mech fuel + AP
-    - Used for actions -  consumes energy + AP
-  -  Health - player's physical condition; -health for bad encounters with zombies/hazards; +health for consuming medkits
-  -  Energy - player's physical stamina and capacity to perform risky/physically demanding actions; -energy when rescuing survivors, engaging in combat, or looting hazardous areas; +energy for consuming food, resting in safe areas, etc
+  -  Action Points - spendable points that replenish (+2/3) each turn, can be stacked if points arent all used at end of turn.
+      - Used for movement - consumes mech fuel + AP
+      - Used for actions -  consumes energy + AP
+  -  Health - player's physical condition;
+      -  -health for bad encounters with zombies/hazards
+      -  +health for consuming medkits
+  -  Energy - player's physical stamina and capacity to perform risky/physically demanding actions
+      - -energy when rescuing survivors, engaging in combat, or looting hazardous areas
+      - +energy for consuming food, resting in safe areas, etc
   -  Fuel - primary resource for movement, reaching 0 before answering all distress calls = loss
-  -  Supplies - consumable items such as food, medkits, fuel,
+  -  Supplies - consumable items
+      -  Medkit: +health -AP
+      -  Food: +energy -AP
+      -  Fuel: +fuel -AP
+  -  Inventory - The mech has 6 inventory slots, which can be occupied by food, medkits, fuel, and survivors.
+      - As you rescue survivors, your available slots will decrease
+      - If your inventory is full but you have an option to loot, you may discard an item to replace it with your new loot  
 
  
 - **Card Decks**
@@ -123,7 +135,11 @@ The game will be set in a fictional post-apocalyptic, utilizing universal symbol
         - random cards that vary between helpful/harmful events that can sometimes present players with a choice or subject them to encounter/experience something they have no choice over. 
     - Rescue Cards
       - Upon reaching distress call location, draw 1 rescue card to determine the profile the of survivor, the scenario, and any potential benefits or detriments they may add (addition/consumption of resources, etc.)
-      - 
+    - Hazard Cards
+      - can be drawn upon
+        - landing on a coordinate with a yellow caution symbol at the end of a turn
+        - choosing to take the subway system
+        - being prompted to draw a hazard card by another card
 <!-- 
 List and describe the core gameplay mechanics players will engage with. 
 Explain how they contribute to the game's challenge and fun. 
@@ -135,8 +151,11 @@ Explain how they contribute to the game's challenge and fun.
     - 1 roll for X-coordinate
     - 1 roll for y-coordinate
   - Player moves are turn-based
-    - Player
-
+    - Moving on the grid costs **Action Points** and **Fuel**
+      - Moving straight in any direction costs 1 AP
+      - Moving diagonally costs 2 AP
+  - Mech can be upgraded if a survivor posesses the skill to do so.
+    - consumption of action points, energy, and an extra turn, but in turn can mean less fuel/AP consumption for larger moves in future turns
 
 
 ### Goals and Challenges
@@ -163,9 +182,15 @@ Challenges:
 Describe how the gameplay evolves over time. 
 Are there new abilities, unlockable levels, skill trees, or difficulty scaling? 
 -->
-- Turn and Action Point Scaling -
-- Mech upgrades - consumption of tools + energy
-- Pl
+- Difficulty scaling -
+  - As more survivors are saved, the player has less inventory slots making supplies even scarcer and difficult to manage
+  - With each survivor saved, the deduction values hazard cards and negative events increase by 1.
+    - Ex: If an encounter gives -2 health with 0 survivors rescued. then having:
+      - 1 survivor = -3 health
+      - 2 survivors =  -4 health
+      - 3 survivors = -5 health
+- Mech upgrades - consumption of action points, energy, and an extra turn, but in turn can mean less fuel/AP consumption for larger moves in future turns
+- 
 
 
 ### Game Rules
