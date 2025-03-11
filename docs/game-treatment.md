@@ -14,7 +14,9 @@ Make it concise yet engaging, reflecting the game's essence.
 
 ## Concept Statement
 
-In this roguelike survival games set in a futuristic post-apocalyptic city in the midst of rebuilding, you play as a rescuer that must strategically traverse the city to respond to distress calls in randomized locations, managing your health, energy, and supplies within a limited amount of turns while avoiding/overcoming unpredictable hazards through dice and card-driven events.
+In this roguelike survival games set in a futuristic post-apocalyptic city in the midst of rebuilding, you play as a rescuer on a mission to respond to urgent distress calls in randomized locations, through which you must traverse the city by piloting a mech to reach your destination, strategically managing your health, energy, fuel and supplies within a limited amount of turns while avoiding/overcoming unpredictable hazards through dice and card-driven events.
+
+In this roguelike survival game set in a futuristic post-apocalyptic city during the peak of a recent zombie outbreak, players control a mech pilot responding to distress calls, managing resources, and navigating the hazardous streets to rescue survivors while facing life-threatening obstacles in a race against time.
 
 <!-- 
 Provide a one-sentence summary that captures the core idea of your game. 
@@ -41,8 +43,7 @@ Mention any sub-genres if applicable.
 
 ### Style
 
-Dark, muted color palette for the environment to match the tone of the setting, with - a post-apocalyptic city with urban decay, crumbling infrastructure, and desperate survivors seeking rescue
-
+Dark, muted color palette for the environment to match the tone of the setting, and high-contrast/saturated colors to add to the futuristic feel, with - a post-apocalyptic city with urban decay, crumbling infrastructure, and desperate survivors seeking rescue
 
 
 Isometric / pixelated (for digital) 
@@ -67,8 +68,13 @@ Mention if your game appeals to casual or hardcore players.
 -->
 
 Age Group: 12+
-Interests: Survival/Apocalypse Games, Roguelikes, Turn-based Strategy games.
-Gamer Profile: Fans of tactical games, roguelikes, and survival challenges
+Interests: 
+- Survival/Apocalypse Games
+- Roguelikes
+- Turn-based Strategy games
+- Resource Management
+- Decision Making
+Gamer Profile: Fans of tactical games, roguelikes, survival challenges, and games that force you to manage scarce resources
 
 The game can appeal to both casual and hardcore players, as difficulty can be adjusted to suit player preferences.
 
@@ -133,6 +139,10 @@ Ensure they are clear, structured, and intuitive.
 Describe the game world, its rules, and any unique environmental elements. 
 Provide enough detail to establish immersion. 
 -->
+- A futuristic post-apocalyptic city that had been in the midst of rebuilding
+- The game takes place during the peak of another zombie outbreak, making the city extremely dangerous and difficult to navigate safely.
+- Infected people and mutated creatures, hostile survivors, and environmental hazards such as contaminated areas and collapsing structures pose a threat to anyone traversing the city.
+
 
 ### Plot
 <!-- 
@@ -140,11 +150,17 @@ Outline the central narrative arc.
 What is the player’s role in the story, and what major events drive the gameplay forward? 
 -->
 
+
+
 ### Characters
 <!-- 
 List key characters, their roles, and how they impact the story. 
 Describe their motivations, personality traits, and influence on the player’s journey. 
 -->
+
+Protagonist - A selfless and highly-skilled strategist and mech pilot appointed as a first responder in a life-threatening mission to respond to distress calls amidst the sudden zombie outbreak. With limited fuel, health, energy, and supplies, and impending doom, The protagonist is forced into a do-or-die situation. Their personality and skillset will be further defined by the players' choices throughout gameplay.
+
+Survivors - A range of different kinds of people that the protagonist is on a mission to save, ranging from equipped, skilled,. Survivor cards will randomize what kind of person you save and whether or not they will be of assistance or a detriment to you.
 
 ---
 
@@ -162,6 +178,9 @@ Highlight key features that differentiate it in the market.
 <!-- 
 List books, movies, historical events, or games that influenced this project. 
 -->
+Into the Breach
+The Last of Us
+
 
 ### Why It Matters
 <!-- 
