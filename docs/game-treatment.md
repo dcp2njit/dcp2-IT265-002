@@ -4,8 +4,9 @@
 
 ## Title
 
-Mech-U Rescue
-Protocall
+- Mech-U Rescue
+- Protocall
+- IDK
 
 <!-- 
 Enter the name of your game concept. 
@@ -16,7 +17,7 @@ Make it concise yet engaging, reflecting the game's essence.
 
 ## Concept Statement
 
-In this roguelike survival game set in a futuristic post-apocalyptic city during the peak of a recent zombie outbreak, players control a mech pilot responding to distress calls, managing scarce resources, and navigating the hazardous streets to rescue survivors while facing life-threatening obstacles in a race against time.
+In this roguelike survival game set in a futuristic post-apocalyptic city during the peak of a recent zombie outbreak, the player controls a mech pilot responding to distress calls, managing scarce resources, and navigating the hazardous streets to rescue survivors while facing life-threatening obstacles in a race against time.
 
 <!-- 
 Provide a one-sentence summary that captures the core idea of your game. 
@@ -33,7 +34,7 @@ Roguelike Strategy Survival Game
 
 
 - resource management
-- tactical turn-based movement
+- tactical turn-based movement/actions
 - elements of chance/randomness 
 
 
@@ -44,7 +45,7 @@ Mention any sub-genres if applicable.
 
 ### Style
 
-Dark, muted color palette for the environment to match the tone of the setting, and high-contrast/saturated colors to add to the futuristic feel, with - a post-apocalyptic city with urban decay, crumbling infrastructure, and desperate survivors seeking rescue
+Dark, muted color palette for the environment to match the tone of the setting, and high-contrast/saturated colors to add to the futuristic feel(maybe), with - a post-apocalyptic city with urban decay and overgrowth, crumbling infrastructure, and desperate survivors seeking rescue
 
 
 Isometric / pixelated (for digital) 
@@ -72,7 +73,7 @@ Age Group: 12+
 Interests: 
 - Survival/Apocalypse Games
 - Roguelikes
-- Turn-based Strategy games
+- Turn-based Strategy Games
 - Resource Management
 - Decision Making
 Gamer Profile: Fans of tactical games, roguelikes, survival challenges, and games that force you to manage scarce resources
@@ -84,8 +85,8 @@ The game can appeal to both casual and hardcore players, as difficulty can be ad
 Describe how the game will accommodate different skill levels. 
 Will there be difficulty modes, tutorials, assistive options, etc.? 
 -->
-= There will be clear icons/symbols and high contrast for the important/interactable assets of the game to make it easy for all players to identify and distinguish in both digital and physical formats.
-= The game will include multiple difficulties to appeal to newbies, casuals, and hardcore players.
+- There will be clear icons/symbols and high contrast for the important/interactable assets of the game to make it easy for all players to identify and distinguish in both digital and physical formats.
+- The game will include multiple difficulties to appeal to newbies, casuals, and hardcore players.
 There will be a gradual learning curve, as the initial survivor will always be the easiest to help introduce and familiarize the player with the resource management, dice, and card mechanics before it becomes increasingly difficult.
 - The game rules will be written out to be referred to at any time and the game will not be super rigid, meaning players can alter the game rules as they like to play it how they want, or adjust it to be both easier or challenging.
 
@@ -94,8 +95,8 @@ There will be a gradual learning curve, as the initial survivor will always be t
 Explain how the game promotes inclusivity. 
 Consider gender representation, cultural diversity, and accessibility features for disabled players. 
 -->
-The game will not have a fixed protagonist and there are no cultural or gender restrictions in theming. 
-The game will be set in a fictional post-apocalyptic, utilizing universal symbols and high contrast visuals for easy comprehension and identifiability across different languages.
+- The game will not have a fixed protagonist and there are no cultural or gender restrictions in theming. 
+- The game will be set in a fictional post-apocalyptic, utilizing universal symbols and high contrast visuals for easy comprehension and identifiability across different languages.
 
 
 ---
@@ -152,10 +153,10 @@ Explain how they contribute to the game's challenge and fun.
     - 1 roll for y-coordinate
   - Player moves are turn-based
     - Moving on the grid costs **Action Points** and **Fuel**
-      - Moving straight in any direction costs 1 AP
-      - Moving diagonally costs 2 AP
+      - Moving straight in any direction costs 1 AP and 1 fuel
+      - Moving diagonally costs 2 AP and 1 fuel
   - Mech can be upgraded if a survivor posesses the skill to do so.
-    - consumption of action points, energy, and an extra turn, but in turn can mean less fuel/AP consumption for larger moves in future turns
+    - consumption of action points, energy, and an extra turn, but is an investment as it can mean less fuel/AP consumption for larger moves in future turns
 
 
 ### Goals and Challenges
@@ -175,7 +176,7 @@ Challenges:
 - Limited turns - Limited turns simulates the time constraint and sense of urgency of the player's situation, prompting them to make strategic moves and decisions. 
 - Scare resource management - managing limited Action Points(AP), fuel, health, and supplies forces strategic choices
 - Dynamic Hazards - Unpredictable events and encounters with zombies, hostile survivors, stractural hazards create dangerous obstacles for players to navigate and adapt to.
-- Risk vs. Reward Decisions - Choosing, which, when, and how to rescue survivors is difficult considering the significant impact it has on resource consumption and exposure to hazards.
+- Risk vs. Reward Decisions - Choosing which, when, and how to rescue survivors is difficult considering the significant impact it has on resource consumption and exposure to hazards.
 
 ### Progression
 <!-- 
@@ -268,8 +269,11 @@ The Last of Us
 <!-- 
 Explain how these inspirations shape the game’s mechanics, visuals, or themes. 
 -->
-Into the Breach - inspired pixelated isometric / grid style, inspired the idea for a turn-based tactical/strategy board game
-The Last of Us - inspired the post-apocalyptic setting, tone, and aesthetic, 
+- Into the Breach - inspired pixelated isometric / grid style with fixed position for structures, inspired the idea for a turn-based tactical/strategy board game
+- The Last of Us - inspired the post-apocalyptic setting, tone, and aesthetic
+-
+
+
 ---
 
 ## Player Experience Goals
@@ -292,7 +296,7 @@ Specify where the game will be played (e.g., PC, console, mobile, VR).
 Mention any cross-platform support if applicable. 
 -->
 Physical - Boardgame
-Digital - PC game - most likely on the web through itch.io
+Digital - PC game - web-based through itch.io
 
 ### Tools
 <!-- 
