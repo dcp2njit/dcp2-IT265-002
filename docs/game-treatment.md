@@ -14,9 +14,7 @@ Make it concise yet engaging, reflecting the game's essence.
 
 ## Concept Statement
 
-In this roguelike survival games set in a futuristic post-apocalyptic city in the midst of rebuilding, you play as a rescuer on a mission to respond to urgent distress calls in randomized locations, through which you must traverse the city by piloting a mech to reach your destination, strategically managing your health, energy, fuel and supplies within a limited amount of turns while avoiding/overcoming unpredictable hazards through dice and card-driven events.
-
-In this roguelike survival game set in a futuristic post-apocalyptic city during the peak of a recent zombie outbreak, players control a mech pilot responding to distress calls, managing resources, and navigating the hazardous streets to rescue survivors while facing life-threatening obstacles in a race against time.
+In this roguelike survival game set in a futuristic post-apocalyptic city during the peak of a recent zombie outbreak, players control a mech pilot responding to distress calls, managing scarce resources, and navigating the hazardous streets to rescue survivors while facing life-threatening obstacles in a race against time.
 
 <!-- 
 Provide a one-sentence summary that captures the core idea of your game. 
@@ -33,7 +31,8 @@ Roguelike Strategy Survival Game
 
 
 - resource management
-- tactical movement
+- tactical turn-based movement
+- elements of chance/randomness 
 
 
 <!-- 
@@ -102,10 +101,42 @@ The game will be set in a fictional post-apocalyptic, utilizing universal symbol
 ## Core Gameplay Mechanics
 
 ### Primary Mechanics
+
+- **Turn-based movement** and actions with player using limited **Action Points per turn**
+- **Dice rolling for **randomization****
+  - Randomized coordiantes for distress calls
+  - Hazardous encounters (?) - either dice roll or coin flip for determining success
+- **Resource Management**
+  -  Action Points - spendable points that replenish (+2/3) each turn
+    - Used for movement - consumes mech fuel + 1 AP
+    - Used for actions -  
+  -  Health - player's physical condition; -health for encounters with zombies/hazards, +health for consuming medkits
+  -  Energy - primary resource 
+  -  Fuel - primary resource for movement, reaching 0 before answering all distress calls = loss
+  -  Supplies - consumable items such as food, medkits, fuel,
+
+ 
+  - **Card Decks**
+    -  Event Cards
+      - Draw 1 every turn
+        - random cards that vary between helpful/harmful events that can sometimes present players with a choice or subject them to encounter/experience something they have no choice over. 
+    - Rescue Cards
+      - Upon reaching distress call location, draw 1 rescue card to determine type of survivor, the scenario, and any potential benefits or detriments they may add (+supplies/-supplies)
+      - 
 <!-- 
 List and describe the core gameplay mechanics players will engage with. 
 Explain how they contribute to the game's challenge and fun. 
 -->
+
+- Movement System
+  - The board is an isometric city grid with X and Y coordinates
+  - Distress Call locations are determined by TWO d6 dice rolls;
+    - 1 roll for X-coordinate
+    - 1 roll for y-coordinate
+  - Player moves are turn-based
+    - Player
+
+
 
 ### Goals and Challenges
 <!-- 
@@ -113,20 +144,42 @@ Detail what players aim to achieve and the obstacles they must overcome.
 Explain how these challenges drive player engagement. 
 
 -->
+Goals:
+- Primary Goal: Successfully answer 3 distress calls by rescuing survivors and returning them back to HQ before mech fuel or player health runs out.
+- Secondary Goals:
+  - Optimize routes between distress calls to preserve fuel and/or energy 
+  - Manage resources as efficiently as possible
+  - When prompted by random events/encounters, think critically and choose the most optimal decisions
 
-Goal - Reach your destination
+Challenges:
+- Limited turns - Limited turns simulates the time constraint and sense of urgency of the player's situation, prompting them to make strategic moves and decisions. 
+- Scare resource management - managing limited Action Points(AP), fuel, health, and supplies forces strategic choices
+- Dynamic Hazards - Unpredictable events and encounters with zombies, hostile survivors, stractural hazards create dangerous obstacles for players to navigate and adapt to.
+- Risk vs. Reward Decisions - Choosing, which, when, and how to rescue survivors is difficult considering the significant impact it has on resource consumption and exposure to hazards.
 
 ### Progression
 <!-- 
 Describe how the gameplay evolves over time. 
 Are there new abilities, unlockable levels, skill trees, or difficulty scaling? 
 -->
+- Turn and Action Point Scaling -
+- Mech upgrades - consumption of tools
+- 
+
 
 ### Game Rules
 <!-- 
 Outline the core rules governing the gameplay experience. 
 Ensure they are clear, structured, and intuitive. 
 -->
+
+Game Start - 
+- 
+  - OR player can roll d6 twice to determine **STARTING POSITION**
+
+
+
+
 
 ---
 
@@ -151,16 +204,16 @@ What is the player’s role in the story, and what major events drive the gamepl
 -->
 
 
-
 ### Characters
 <!-- 
 List key characters, their roles, and how they impact the story. 
 Describe their motivations, personality traits, and influence on the player’s journey. 
 -->
 
-Protagonist - A selfless and highly-skilled strategist and mech pilot appointed as a first responder in a life-threatening mission to respond to distress calls amidst the sudden zombie outbreak. With limited fuel, health, energy, and supplies, and impending doom, The protagonist is forced into a do-or-die situation. Their personality and skillset will be further defined by the players' choices throughout gameplay.
+Protagonist - A selfless and highly-skilled strategist and mech pilot appointed as a first responder in a life-threatening mission to respond to distress calls amidst the sudden zombie outbreak. With limited time, fuel, health, energy, and supplies, the protagonist is forced into a do-or-die situation. They are further characterized and defined by player choices.
 
-Survivors - A range of different kinds of people that the protagonist is on a mission to save, ranging from equipped, skilled,. Survivor cards will randomize what kind of person you save and whether or not they will be of assistance or a detriment to you.
+Survivors - A diverse range of individuals that the protagonist can encounter when answering a distress call. Their profiles (determined by Rescue Cards) range from skilled technicians to injured civilians. Survivors may contribute positively by providing bonus resources, skills, or upgrades, while others may hinder progress by using up resources and add to risk.
+
 
 ---
 
@@ -186,7 +239,8 @@ The Last of Us
 <!-- 
 Explain how these inspirations shape the game’s mechanics, visuals, or themes. 
 -->
-
+Into the Breach - inspired pixelated isometric / grid style, inspired the idea for a turn-based tactical/strategy board game
+The Last of Us - inspired the post-apocalyptic setting, tone, and aesthetic, 
 ---
 
 ## Player Experience Goals
@@ -194,6 +248,7 @@ Explain how these inspirations shape the game’s mechanics, visuals, or themes.
 Describe the intended player emotions and reactions. 
 Examples: excitement, curiosity, tension, relaxation, humor. 
 -->
+Tension / Sense of urgency - limited turns and scarce resources should apply pressure on the player to make meaningful choices and strategies.
 
 ---
 
@@ -204,12 +259,17 @@ Examples: excitement, curiosity, tension, relaxation, humor.
 Specify where the game will be played (e.g., PC, console, mobile, VR). 
 Mention any cross-platform support if applicable. 
 -->
+Physical - Boardgame
+Digital - PC game - most likely on the web through itch.io
 
 ### Tools
 <!-- 
 List key engines, programming languages, or frameworks required for development. 
 -->
-
+**For Digital**
+Unity Engine
+- C# Scripting
+- 
 ---
 
 ## Art and Sound Direction
