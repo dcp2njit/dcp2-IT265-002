@@ -102,26 +102,27 @@ The game will be set in a fictional post-apocalyptic, utilizing universal symbol
 
 ### Primary Mechanics
 
-- **Turn-based movement** and actions with player using limited **Action Points per turn**
-- **Dice rolling for **randomization****
+- **Turn-based Movement and Actions**
+  - Player has a limited number of Action Points (AP) per turn for movement and other actions.
+- **Dice Rolling for **Randomization****
   - Randomized coordiantes for distress calls
-  - Hazardous encounters (?) - either dice roll or coin flip for determining success
+  - Hazardous encounters - Dice roll (or coin flip) for deciding the outcomes of risky actions (engaging with zombies and other hostiles, navigating/looting dangerous terrain, etc.)
 - **Resource Management**
   -  Action Points - spendable points that replenish (+2/3) each turn
-    - Used for movement - consumes mech fuel + 1 AP
-    - Used for actions -  
-  -  Health - player's physical condition; -health for encounters with zombies/hazards, +health for consuming medkits
-  -  Energy - primary resource 
+    - Used for movement - consumes mech fuel + AP
+    - Used for actions -  consumes energy + AP
+  -  Health - player's physical condition; -health for bad encounters with zombies/hazards; +health for consuming medkits
+  -  Energy - player's physical stamina and capacity to perform risky/physically demanding actions; -energy when rescuing survivors, engaging in combat, or looting hazardous areas; +energy for consuming food, resting in safe areas, etc
   -  Fuel - primary resource for movement, reaching 0 before answering all distress calls = loss
   -  Supplies - consumable items such as food, medkits, fuel,
 
  
-  - **Card Decks**
+- **Card Decks**
     -  Event Cards
       - Draw 1 every turn
         - random cards that vary between helpful/harmful events that can sometimes present players with a choice or subject them to encounter/experience something they have no choice over. 
     - Rescue Cards
-      - Upon reaching distress call location, draw 1 rescue card to determine type of survivor, the scenario, and any potential benefits or detriments they may add (+supplies/-supplies)
+      - Upon reaching distress call location, draw 1 rescue card to determine the profile the of survivor, the scenario, and any potential benefits or detriments they may add (addition/consumption of resources, etc.)
       - 
 <!-- 
 List and describe the core gameplay mechanics players will engage with. 
@@ -163,8 +164,8 @@ Describe how the gameplay evolves over time.
 Are there new abilities, unlockable levels, skill trees, or difficulty scaling? 
 -->
 - Turn and Action Point Scaling -
-- Mech upgrades - consumption of tools
-- 
+- Mech upgrades - consumption of tools + energy
+- Pl
 
 
 ### Game Rules
@@ -172,12 +173,15 @@ Are there new abilities, unlockable levels, skill trees, or difficulty scaling?
 Outline the core rules governing the gameplay experience. 
 Ensure they are clear, structured, and intuitive. 
 -->
+Board Setup
+- Choose your starting position (either at HQ or through 2 dice rolls) and place your Player Piece on the board
+- Deterimine distress call locations with 2 dice rolls and place the Survivor Piece on the board
+  - Repeat 2 times for the remaining survivors.
+- The board is static with fixed positions for important locations
 
-Game Start - 
-- 
-  - OR player can roll d6 twice to determine **STARTING POSITION**
-
-
+1. Players start with **!0 Health, 10 Energy, 12 Fuel,**
+2.  
+3. 
 
 
 
@@ -248,7 +252,10 @@ The Last of Us - inspired the post-apocalyptic setting, tone, and aesthetic,
 Describe the intended player emotions and reactions. 
 Examples: excitement, curiosity, tension, relaxation, humor. 
 -->
-Tension / Sense of urgency - limited turns and scarce resources should apply pressure on the player to make meaningful choices and strategies.
+- **Tension / Sense of urgency** - limited turns and scarce resources should apply pressure on the player to make meaningful choices and strategies.
+-** Excitement/Curiousity **- Randomized events, starting positions, and distress call destinations along w/ the flexibility of rules/difficulty ensure unique playthroughs + replayability, enticing players to retry with different strategies to see whether they can play more efficiently in the next run.
+- **Satisfaction **- Successfully rescuing all survivors and overcoming hazards and obstacles should feel rewarding to the player, especially if they are able to find efficient paths and resource management strategies
+- **Sense of improvement/mastery** - The startegic aspect of the game and emphasis on making smart moves should give players a growing sense of improvement and mastery of the game's mechanics.
 
 ---
 
