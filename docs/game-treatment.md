@@ -17,7 +17,7 @@ Make it concise yet engaging, reflecting the game's essence.
 
 ## Concept Statement
 
-In this roguelike survival game set in a futuristic post-apocalyptic city during the peak of a recent zombie outbreak, the player controls a mech pilot responding to distress calls, managing scarce resources, and navigating the hazardous streets to rescue survivors while facing life-threatening obstacles in a race against time.
+Traverse a futuristic post-apocalyptic city in the midst of a zombie outbreak in this roguelike survival game, managing scarce resources and navigating hazardous streets as you respond to distress calls in a race against the clock.
 
 <!-- 
 Provide a one-sentence summary that captures the core idea of your game. 
@@ -45,7 +45,7 @@ Mention any sub-genres if applicable.
 
 ### Style
 
-Dark, muted color palette for the environment to match the tone of the setting, and high-contrast/saturated colors to add to the futuristic feel(maybe), with - a post-apocalyptic city with urban decay and overgrowth, crumbling infrastructure, and desperate survivors seeking rescue
+Dark, muted color palette for the environment to match the tone of the setting, with - a post-apocalyptic city with urban decay and overgrowth, crumbling infrastructure, and desperate survivors seeking rescue
 
 
 Isometric / pixelated (for digital) 
@@ -76,9 +76,10 @@ Interests:
 - Turn-based Strategy Games
 - Resource Management
 - Decision Making
+
 Gamer Profile: Fans of tactical games, roguelikes, survival challenges, and games that force you to manage scarce resources
 
-The game can appeal to both casual and hardcore players, as difficulty can be adjusted to suit player preferences.
+The game can appeal to both casual and hardcore players, those who just want to play for the experience, 
 
 ### Accessibility
 <!-- 
@@ -156,6 +157,7 @@ Explain how they contribute to the game's challenge and fun.
       - Moving straight in any direction costs 1 AP and 1 fuel
       - Moving diagonally costs 2 AP and 1 fuel
   - Mech can be upgraded if a survivor posesses the skill to do so.
+    -
     - consumption of action points, energy, and an extra turn, but is an investment that can mean less fuel/AP consumption for larger moves in future turns
 
 
