@@ -3,10 +3,8 @@
 ---
 
 ## Title
-
-- Mech-U Rescue
 - Protocall
-- IDK
+
 
 <!-- 
 Enter the name of your game concept. 
