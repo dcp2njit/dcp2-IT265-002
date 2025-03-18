@@ -28,7 +28,7 @@ This should convey what makes your game unique in a compelling way.
 
 
 ### Genre
-Roguelike Strategy Survival Board Game
+PVP Roguelike Strategy Survival Board Game
 
 
 - resource management
@@ -66,7 +66,6 @@ Examples: "A dark, gothic horror with hand-drawn 2D animation" or
 Identify the target age group, interests, and gamer profile. 
 Mention if your game appeals to casual or hardcore players. 
 -->
-
 Age Group: 12+
 Interests: 
 - Survival/Apocalypse Games
@@ -99,7 +98,6 @@ Consider gender representation, cultural diversity, and accessibility features f
 
 
 ---
-
 ## Core Gameplay Mechanics
 
 ### Primary Mechanics
