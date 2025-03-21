@@ -15,7 +15,7 @@ Make it concise yet engaging, reflecting the game's essence.
 
 ## Concept Statement
 
-Traverse a futuristic post-apocalyptic city in the midst of a zombie outbreak in this roguelike survival game, managing scarce resources and navigating hazardous streets as you respond to distress calls in a race against the clock.
+Distress calls flood the airwaves over the restricted zone—survivors trapped in the infected city remain in desperate need of rescue. As the appointed first responder, you must pilot your mech into the ruins and extract the survivors before it’s too late.
 
 <!-- 
 Provide a one-sentence summary that captures the core idea of your game. 
@@ -28,7 +28,7 @@ This should convey what makes your game unique in a compelling way.
 
 
 ### Genre
-PVP Roguelike Strategy Survival Board Game
+Asymmetric Strategy Resource Management Game
 
 
 - resource management
