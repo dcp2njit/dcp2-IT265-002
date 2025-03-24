@@ -75,17 +75,14 @@ Interests:
 
 Gamer Profile: Fans of tactical games, roguelikes, survival challenges, and games that force you to manage scarce resources
 
-The game can appeal to both casual and hardcore players, those who just want to play for the experience, 
 
 ### Accessibility
 <!-- 
 Describe how the game will accommodate different skill levels. 
 Will there be difficulty modes, tutorials, assistive options, etc.? 
 -->
-- There will be clear icons/symbols and high contrast for the important/interactable assets of the game to make it easy for all players to identify and distinguish in both digital and physical formats.
-- The game will include multiple difficulties to appeal to newbies, casuals, and hardcore players.
-There will be a gradual learning curve, as the initial survivor will always be the easiest to help introduce and familiarize the player with the resource management, dice, and card mechanics before it becomes increasingly difficult.
-- The game rules will be written out to be referred to at any time and the game will not be super rigid, meaning players can alter the game rules as they like to play it how they want, or adjust it to be both easier or challenging.
+- High contrast colors will be used for the important/interactable assets of the game to make it easy for all players to identify and distinguish in both digital and physical formats.
+- The game will utilize universal / easily identifiable symbols to communicate the meaning without needing much comprehension. 
 
 ### Inclusivity Strategies
 <!-- 
@@ -93,7 +90,7 @@ Explain how the game promotes inclusivity.
 Consider gender representation, cultural diversity, and accessibility features for disabled players. 
 -->
 - The game will not have a fixed protagonist and there are no cultural or gender restrictions in theming. 
-- The game will be set in a fictional post-apocalyptic, utilizing universal symbols and high contrast visuals for easy comprehension and identifiability across different languages.
+- The game will utilize universal symbols and high contrast visuals for easy comprehension and identifiability across different languages.
 
 
 ---
@@ -149,32 +146,73 @@ Are there new abilities, unlockable levels, skill trees, or difficulty scaling?
 Outline the core rules governing the gameplay experience. 
 Ensure they are clear, structured, and intuitive. 
 -->
-Board Setup
-- Choose your starting position (either at HQ or through 2 dice rolls) and place your Player Piece on the board
-- Deterimine distress call locations with 2 dice rolls and place the Survivor Piece on the board
-  - Repeat 2 times for the remaining survivors.
-- The board is static with fixed positions for important locations
 
-1. Players start with **!0 Health, 10 Energy, 12 Fuel,**
-2.  
-3. 
+Board Setup: 
+1. **Choose Roles:** One player is the Rescuer, the other is the Infected.
+2. **Board Orientation:** HQ tile (1,1) faces both players.
+3. **Place Rescuer:** Start at HQ (1,1).
+4. **Place Distress Signal:** Roll two D10s for coordinates; reroll if obstructed.
+5. **Place Zombies:** Roll spawn locations (reroll if x+y < 6). Place:
+   - 1 Horde
+   - 1 Stalker (can be placed on obstructed tiles)
+   - 1 Greaser
 
+ Turn Order & Actions
 
+- **Turns alternate**, starting with the Rescuer.
+- **Action Points (AP)**:
+  - Rescuer: 3 AP per turn
+  - Each Zombie unit: 2 AP per turn
+- **Spend AP to**:
+  - **Move** to adjacent tile: -1 AP
+  - **Attack** (adjacent target): -1 AP
+  - **Use Items/Abilities** (varies by card/upgrade)
+- **End of Turn:** AP resets. Rescuer rolls D6; on odds, lose 1 Energy.
 
----
+Rescuer Mechanics
+
+- Starts with **10 Health** and **10 Energy**.
+- Inventory limit: 4 Loot Cards.
+- May use upgrades and each attack once per turn.
+- Dies if Health or Energy reaches 0.
+
+Infected Mechanics
+
+- Controls Horde, Stalker, and Greaser.
+- Each has unique abilities and 2 AP per turn.
+- Zombies respawn at random coordinates after being eliminated.
+- Cannot act on the turn they respawn.
+
+Tile Types & Effects
+
+- **Hazard Tile:** Draw and resolve 1 Hazard Card.
+- **Event Tile:** Draw and resolve 1 Event Card.
+- **Tunnel Tile:** Travel across map; resolve 1 Hazard Card.
+- **Subway Tile:** Travel to any other Subway; resolve 2 Hazard Cards.
+- **Distress Signal Tile:** Rescuer draws 2 Upgrade Cards (keeps 1) and Infected draws 3 Mutation Cards (keeps 2) and new supply drops respawn in random locations
+- **Supply Drop Tile:** Draw 2 Loot; keep 1.
+- **HQ Tile:** Return survivor; Triggers Upgrade/Mutation draws and Rescuer gains 5 Health/Energy points. 
+- **Ignited Tile:** Damages Rescuer for -1 Health; eliminates Zombies.
+- **Greased Tile:** Leaving tile causes -1 Health & -1 Energy.
+
+Zombie Unit Traits
+
+- **Horde:** Can respawn 2+ tiles away from Rescuer.
+- **Stalker:** Leaps 2 tiles or moves diagonally. Ignores walls.
+- **Greaser:** Leaves grease trail. Rescuer penalized for stepping off it.
+
+Win Conditions
+
+- **Rescuer Wins:** Rescue and return 3 survivors.
+- **Infected Wins:** Rescuer’s Health or Energy reaches 0.
 
 ## Story and Setting
-
-
-
 ### Setting
 <!-- 
 Describe the game world, its rules, and any unique environmental elements. 
 Provide enough detail to establish immersion. 
 -->
-- A futuristic post-apocalyptic city that had been in the midst of rebuilding
-- The game takes place during the peak of another zombie outbreak, making the city extremely dangerous and difficult to navigate safely.
-- Infected people and mutated creatures, hostile survivors, and environmental hazards such as contaminated areas and collapsing structures pose a threat to anyone traversing the city.
+Set in a post-apocalyptic future in a restricted zone in an urban city. It is full of decay, collapsing structures, with hints of life from the overgrowth and survivors that remain.
 
 
 ### Plot
@@ -182,17 +220,21 @@ Provide enough detail to establish immersion.
 Outline the central narrative arc. 
 What is the player’s role in the story, and what major events drive the gameplay forward? 
 -->
-
+Distress calls flood the airwaves over the restricted zone--survivors trapped in the infected city remain in desperate need of rescue. As the appointed first responder, you must pilot your mech into the ruins and extract the survivors before it’s too late. However, not only are there countless hazards to be encountered while traversing the city, but there are also hordes of Infected looking to put a halt in your mission. They've broken into the restricted zone and will do anything to take you down and make it their own.
 
 ### Characters
 <!-- 
 List key characters, their roles, and how they impact the story. 
 Describe their motivations, personality traits, and influence on the player’s journey. 
 -->
+Rescuer - A highly-skilled mech pilot appointed as first-responder in the restricted zone's rescue mission. However, they must remain strategic and resourceful with their limited health and mech's stored energy.
+Their role is to rescue 3 survivors broadcasting distress signals and return them back to HQ.
 
-Protagonist - A selfless and highly-skilled strategist and mech pilot appointed as a first responder in a life-threatening mission to respond to distress calls amidst the sudden zombie outbreak. With limited time, fuel, health, energy, and supplies, the protagonist is forced into a do-or-die situation. They are further characterized and defined by player choices.
+Infected: Their role is to halt the Rescuer's mission by depleting their Health and Energy.
+- Horde - A general horde of mutated infected that always travels together. They seem to always know where to lurk, which creates a bohtersome presence that applies extra pressure on the Rescure to constantly be on the move.
+- Stalker - An agile zombie with a larger range of movement compared to the others. His mutation has granted him incredible agility, allowing him to traverse walls and obstructions by leaping onto or climbing through buildings. His fast movement forces the Rescuer to carefully consider their every move.
+- Greaser - A hefty zombie. His mutation has caused him to secrete an excessive amount of toxic grease, leaving behind a toxic trail wherever he roams. His trail punishes careless movement and creates barriers that drain the Resourcer's limited resources.
 
-Survivors - A diverse range of individuals that the protagonist can encounter when answering a distress call. Their profiles (determined by Rescue Cards) range from skilled technicians to injured civilians. Survivors may contribute positively by providing bonus resources, skills, or upgrades, while others may hinder progress by using up resources and add to risk.
 
 
 ---
@@ -202,6 +244,9 @@ Survivors - A diverse range of individuals that the protagonist can encounter wh
 Identify what makes your game stand out from others in its genre. 
 Highlight key features that differentiate it in the market. 
 -->
+
+It is an asymmetric pvp board game, except the board is isometric!
+It combines elements of roguelikes with randomized challenges (card decks, distress signal placement, zombie unit placement) but with static locations (similar to that of Into the Breach), allowing for replayability without setup fatigue considering the fact that it is a physical board game.
 
 ---
 
@@ -213,6 +258,7 @@ List books, movies, historical events, or games that influenced this project.
 -->
 Into the Breach
 The Last of Us
+Left 4 Dead 2
 
 
 ### Why It Matters
@@ -220,8 +266,8 @@ The Last of Us
 Explain how these inspirations shape the game’s mechanics, visuals, or themes. 
 -->
 - Into the Breach - inspired pixelated isometric / grid style with fixed position for structures, inspired the idea for a turn-based tactical/strategy board game
-- The Last of Us - inspired the post-apocalyptic setting, tone, and aesthetic
--
+- The Last of Us - inspired the post-apocalyptic setting, with elements of the board's appearance being directly inspired by The Last of Us.
+- Left 4 Dead - inspired asymmetric gameplay with humans vs zombies. inspired the abilities of the zombie units.
 
 
 ---
@@ -231,9 +277,9 @@ Explain how these inspirations shape the game’s mechanics, visuals, or themes.
 Describe the intended player emotions and reactions. 
 Examples: excitement, curiosity, tension, relaxation, humor. 
 -->
-- **Tension / Sense of urgency** - limited turns and scarce resources should apply pressure on the player to make meaningful choices and strategies.
+- **Tension / Sense of urgency** - scarce resources should apply pressure on the Rescuer to make meaningful choices and strategies. The Infected should also feel a sense of urgency to stop the Rescuer before they rescue all 3 survivors, encouraging strategic positioning, movement, and actions.
 -** Excitement/Curiousity **- Randomized events, starting positions, and distress call destinations along w/ the flexibility of rules/difficulty ensure unique playthroughs + replayability, enticing players to retry with different strategies to see whether they can play more efficiently in the next run.
-- **Satisfaction **- Successfully rescuing all survivors and overcoming hazards and obstacles should feel rewarding to the player, especially if they are able to find efficient paths and resource management strategies
+- **Satisfaction **- Successfully rescuing all survivors and overcoming hazards and obstacles should feel rewarding to the Rescuer, while successfully stopping the Rescuer in their tracks should feel rewarding to the Infected.
 - **Sense of improvement/mastery** - The startegic aspect of the game and emphasis on making smart moves should give players a growing sense of improvement and mastery of the game's mechanics.
 
 ---
@@ -253,8 +299,8 @@ Digital - PC game - web-based through itch.io
 List key engines, programming languages, or frameworks required for development. 
 -->
 **For Digital**
-Unity Engine
-- C# Scripting
+Unity Engine or Godot
+- C# Scripting or gdscript
 - 
 ---
 
@@ -264,6 +310,7 @@ Unity Engine
 <!-- 
 Describe the art direction, including color schemes, animation style, and UI elements. 
 -->
+
 
 ### Sound Design
 <!-- 
@@ -326,6 +373,10 @@ Upload sketches here, or describe the key visual elements in detail if unavailab
 Provide a concise and engaging summary of the game concept and theme. 
 Make it persuasive and easy to understand. 
 -->
+
+**PROTOCALL** is an asymmetric survival board game where one player pilots a scarcely-resourced mech to rescue survivors in a zombie-infested city, while the other commands a trio of mutating zombies. The Rescuer must strategically manage Action points, Health, and Energy to extract 3 survivors and return them to HQ, all while navigating tile-based hazards and card-driven chaos. The Infected player controls 3 zombie units with distinct movement and passive abilities to stop them in their tracks and sabotoge the mission.
+
+
 
 ### Target Audience Appeal
 <!-- 
