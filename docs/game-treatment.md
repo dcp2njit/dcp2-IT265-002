@@ -5,6 +5,7 @@
 ## Title
 - Protocall
 
+A play on the words "Protocol" and "Call". Considering the protagonist of the game is a first-responder trying to rescue survivors sending out distress signals/calls, I felt it made sense to mix the words together to make the title something unique that also fits the theme and Rescuer's objective.
 
 <!-- 
 Enter the name of your game concept. 
@@ -15,7 +16,7 @@ Make it concise yet engaging, reflecting the game's essence.
 
 ## Concept Statement
 
-Distress calls flood the airwaves over the restricted zone—survivors trapped in the infected city remain in desperate need of rescue. As the appointed first responder, you must pilot your mech into the ruins and extract the survivors before it’s too late.
+PROTOCALL is a tense, asymmetrical survival board game where one player pilots a resource-strained rescue mech through a hazard-ridden city to extract survivors broadcasting distress signals, while the other controls mutating zombies intent on stopping them in their tracks.
 
 <!-- 
 Provide a one-sentence summary that captures the core idea of your game. 
@@ -28,12 +29,10 @@ This should convey what makes your game unique in a compelling way.
 
 
 ### Genre
-Asymmetric Strategy Resource Management Game
+Asymmetric - Two players with opposing roles, mechanics, and objectives
+Tactical/Strategy - Requires strategic positioning, movement, actions, and decision-making.
+Survival / Resource Management - Rescuer must manage limited resources and stay alive to complete their mission.
 
-
-- resource management
-- tactical turn-based movement/actions
-- elements of chance/randomness 
 
 
 <!-- 
@@ -102,59 +101,11 @@ Consider gender representation, cultural diversity, and accessibility features f
 
 ### Primary Mechanics
 
-- **Turn-based Movement and Actions**
-  - Player has a limited number of Action Points (AP) per turn for movement and other actions.
-- **Dice Rolling for **Randomization****
-  - Randomized coordiantes for distress calls
-  - Hazardous encounters - Dice roll (or coin flip) for deciding the outcomes of risky actions (engaging with zombies and other hostiles, navigating/looting dangerous terrain, etc.)
-- **Resource Management System**
-  -  Action Points - spendable points that replenish (+2/3) each turn, can be stacked if points arent all used at end of turn.
-      - Used for movement - consumes mech fuel and AP
-      - Used for actions -  consumes energy and AP
-  -  Health - player's physical condition;
-      -  -health for bad encounters with zombies/hazards
-      -  +health for consuming medkits
-  -  Energy - player's physical stamina and capacity to perform risky/physically demanding actions
-      - -energy when rescuing survivors, engaging in combat, or looting hazardous areas
-      - +energy for consuming food, resting in safe areas, etc
-  -  Fuel - primary resource for movement, reaching 0 before answering all distress calls = loss
-  -  Supplies - consumable items
-      -  Medkit: +health -AP
-      -  Food: +energy -AP
-      -  Fuel: +fuel -AP
-  -  Inventory - The mech has 6 inventory slots, which can be occupied by food, medkits, fuel, and survivors.
-      - As you rescue survivors, your available slots will decrease
-      - If your inventory is full but you have an option to loot, you may discard an item to replace it with your new loot  
-
- 
-- **Card Decks**
-    -  Event Cards
-      - Draw 1 every turn
-        - random cards that vary between helpful/harmful events that can sometimes present players with a choice or subject them to encounter/experience something they have no choice over. 
-    - Rescue Cards
-      - Upon reaching distress call location, draw 1 rescue card to determine the profile the of survivor, the scenario, and any potential benefits or detriments they may add (addition/consumption of resources, etc.)
-    - Hazard Cards
-      - can be drawn upon
-        - landing on a coordinate with a yellow caution symbol at the end of a turn
-        - choosing to take the subway system
-        - being prompted to draw a hazard card by another card
 <!-- 
 List and describe the core gameplay mechanics players will engage with. 
 Explain how they contribute to the game's challenge and fun. 
 -->
 
-- Movement System
-  - The board is an isometric 6x6 city grid with X and Y coordinates
-  - Distress Call locations are determined by **TWO** d6 dice rolls;
-    - 1 roll for X-coordinate
-    - 1 roll for y-coordinate
-  - Player moves are turn-based
-    - Moving on the grid costs **Action Points** and **Fuel**
-      - Moving straight in any direction costs 1 AP and 1 fuel
-      - Moving diagonally costs 2 AP and 1 fuel
-  - Mech can be upgraded if a survivor posesses the skill to do so.
-    -
-    - consumption of action points, energy, and an extra turn, but is an investment that can mean less fuel/AP consumption for larger moves in future turns
 
 
 ### Goals and Challenges
@@ -163,33 +114,34 @@ Detail what players aim to achieve and the obstacles they must overcome.
 Explain how these challenges drive player engagement. 
 
 -->
-Goals:
-- Primary Goal: Successfully answer 3 distress calls by rescuing survivors and returning them back to HQ before mech fuel or player health runs out.
-- Secondary Goals:
-  - Optimize routes between distress calls to preserve fuel and/or energy 
-  - Manage resources as efficiently as possible
-  - When prompted by random events/encounters, think critically and choose the most optimal decisions
+**The Rescuer**
 
-Challenges:
-- Limited turns - Limited turns simulates the time constraint and sense of urgency of the player's situation, prompting them to make strategic moves and decisions. 
-- Scare resource management - managing limited Action Points(AP), fuel, health, and supplies forces strategic choices
-- Dynamic Hazards - Unpredictable events and encounters with zombies, hostile survivors, stractural hazards create dangerous obstacles for players to navigate and adapt to.
-- Risk vs. Reward Decisions -You can rescue and drop off survivors in bulk, or one by one, or a mix of both. Choosing which, when, and how to rescue and drop off survivors is difficult considering the significant impact it has on resource consumption and exposure to hazards.
+**Objective:** reach each distress signal location and bring 3 survivors back to HQ one at a time. If either resource is depleted before 3 survivors are rescued, the Rescuer fails the mission and loses the game. If the Rescuer manages to bring all 3 survivors back without dying or having their mech run out of Energy they win the game.
+
+**Challenges:** The Rescuer starts with 10 Health and 10 Energy, which they must maintain throughout the entire game. These resources can be lost through combat and hazards, or gained through loot, random encounters, and upgrades. They may lose -1 Energy (determined by a D6 roll) to recharge their mech. Encountered hazards (from tile outcomes) and attacks from the Infected are also challenges that deplete their Health and Energy, which they must consider and adapt their strategy to. Sometimes they will need to make a difficult decision, and other times they have no choice but to deal with what's happening.
+
+**The Infected**
+
+**Objective:** prevent the successful extraction of the survivors by exhausting the Rescuer’s Health or Energy before all 3 are returned to HQ. 
+
+**Challenges:** The Infected has 3 Zombie units to manage and control instead of 1. Instead of having a Health resource, they immediately die upon being attacked by the Rescuer, respawning on their next turn. This can either be a challenge or useful depending on the circumstances and how the Infected chooses to play. 
+
+Both the Rescuer and the Infected will be granted upgrades as the game progresses, which will pose further challenges to each side and escalate the gameplay.
+
+
+
 
 ### Progression
 <!-- 
 Describe how the gameplay evolves over time. 
 Are there new abilities, unlockable levels, skill trees, or difficulty scaling? 
 -->
-- Difficulty scaling -
-  - As more survivors are saved, the player has less inventory slots making supplies even scarcer and difficult to manage
-  - With each survivor saved, the deduction values hazard cards and negative events increase by 1.
-    - Ex: If an encounter gives -2 health with 0 survivors rescued. then having:
-      - 1 survivor = -3 health
-      - 2 survivors =  -4 health
-      - 3 survivors = -5 health
-- Mech upgrades - consumption of action points, energy, and an extra turn, but in turn can mean less fuel/AP consumption for larger moves in future turns
-- 
+- Both players get stronger as the game progresses
+- For each rescued survivor, the Rescuer receives an upgrade, and the Infected receives mutations.
+- Upgrades include enhancements to combat, defense, mobility, etc.
+- Mutations grant passive bonuses or active abilities, either for all zombies or specific units.
+- Combat and pacing of the game will escalate as each side unlocks new combat and movement abilities.
+  
 
 
 ### Game Rules
