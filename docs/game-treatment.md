@@ -102,8 +102,48 @@ Consider gender representation, cultural diversity, and accessibility features f
 List and describe the core gameplay mechanics players will engage with. 
 Explain how they contribute to the game's challenge and fun. 
 -->
+Turn-Based Asymmetry
+- Two-player asymmetric game: One plays the Rescuer, the other controls 3 zombie units (Horde, Stalker, Greaser).
+- Turns alternate between players.
+- Both sides spend Action Points (AP) to perform actions; AP resets every turn.
 
+Rescuer Mechanics
+- 3 AP per turn: used for movement, attacking, using items, or upgrades.
+- Health and Energy (10 each) must be maintained; depletion ends the game.
+- Loot Inventory: Max 4 cards; consumables aid survival.
+- Random Energy Drain: Roll a D6 at end of turn—lose 1 Energy on odds.
+- Upgrades: Chosen when rescuing a survivor or returning to HQ.
 
+Infected Mechanics
+- Controls 3 unique zombies:
+- Horde: Wide reach, custom respawn.
+- Stalker: Diagonal moves, wall traversal.
+- Greaser: Leaves harmful "greased" tiles, area control.
+- Each unit has 2 AP and can use basic attacks and mutation abilities.
+- Zombies respawn when killed, but skip a turn on respawn.
+
+Board & Tile Mechanics
+- Randomized coordinates for spawning and events using D10s.
+- Special tile types:
+  - Hazard/Event Tiles: Trigger card effects.
+  - Subway/Trainyard Tiles: Fast travel with risk.
+  - Distress Signal Tiles: Trigger upgrade/mutation draws.
+  - Greased Tiles: Cause damage when exited.
+  - Ignited Tiles: Cause instant effects; -1 Health to Rescuer, eliminates Zombies
+  - HQ Tile: Deliver survivors and recover resources. Triggers upgrade/mutation draws.
+
+Card Systems
+- 5 Card Types:
+  - **Loot (20)**: Health, Energy, AP boosts, throwables.
+  - **Upgrade (11)**: Passive or active mech abilities.
+  - **Mutation (18)**: Unique buffs/actions for zombies.
+  - **Hazard (20)**: Random tile-triggered events (mostly negative).
+  - **Event (18):** Random tile-triggered events (mostly positive).
+
+Combat & Items
+- Rescuer can one-hit kill adjacent zombies (once per turn).
+- Items like Molotovs, Shockwaves, and Pipe Bombs offer tactical area control.
+- Greaser’s trail and fire can restrict movement or damage units.
 
 ### Goals and Challenges
 <!-- 
