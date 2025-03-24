@@ -438,10 +438,13 @@ Compare it to similar games and highlight key advantages.
 ### Feedback 1
 - **Reviewer**:  
   <!-- Enter name and relation to you -->
+Seongmin Chang - Gamer friend who likes to learn the intricacies and nuances of the games they play
 - **Summary**:  
   <!-- Summarize feedback focusing on concept, mechanics, and style -->
+  Seongmin had concerns about the game length, especially in regards to Infected turns. Having 3 units with their own set of abilities and action points might make their turns take too long in comparison to the Rescuer.
 - **Refinement**:  
   <!-- Explain how this feedback will improve the design -->
+  Taking his feedback into consideration, I made it so that the Infected doesn't have to worry about additional resources to manage aside from just the units themselves. The Rescuer having an extra AP, and tile-based/card-based encounters as well as loot, health, and energy to manage, in theory should make the amount of time put into each turn relatively similar.
 
 ### Feedback 2
 - **Reviewer**:  
