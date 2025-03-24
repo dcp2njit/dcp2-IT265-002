@@ -21,7 +21,7 @@ I tried to complete my game treatment checkpoint by the due date, but close to t
 - **Challenges faced**:
 Coming up with a new game design and trying to map out the mechanics and rules took a lot more of my time than I anticipated. It might just be a skill issue honestly, I feel like I shouldn't have struggled as much as I did.
 Constant impostor syndrome throughout the process T-T
-It's hard for me to feel satisfied with things I make, especially since I have unfair expectations for myself.
+It's hard for me to feel satisfied with things or decisions I make.
      <!--Your entry here or N/A if not applicable for this entry-->
 - **Solutions**:
 I am trying to manage my time more efficiently (still struggling)
