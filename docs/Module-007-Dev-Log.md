@@ -37,9 +37,11 @@ N/A
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
     <!--Your entry here or N/A if not applicable for this entry-->
+  
 After further playtesting I think I need to add a timer for turns. It'll make players more prone to make mistakes but I think that should add to the fun/chaos, and also make the fast-pased decision-making part of the challenge that players can eventually improve on.
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
    <!--Your entry here or N/A if not applicable for this entry-->
+  
   - I want to do more playtests with my new changes and start figuring out how I'm going to approach the digital prototype.
