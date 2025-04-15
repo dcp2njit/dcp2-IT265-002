@@ -45,7 +45,7 @@ Entity Based systems
     - Improve efficiency by fitering only needed entities
     - Modular and reusable across different game contexts   
 - Entities are individual objects defined by components with a unique ID for tracking
-  
+- ECS = ENtity-Component-System architecture
 N/A
 
 #### Free Thinking
