@@ -1,5 +1,14 @@
 # IT265 Design Treatment Checkpoint
 
+CHANGELOG:
+- for digital prototype all dice-based randomization is now automated (spawn coordinates / dice rolls)
+- card system not implemented, but framework exists to make the cards and their effects modular
+- players dont need to manually track AP, the digital utlizes a TurnManager to keep track of their turns
+- Passive / active abilities not fully implemented, stalker can move diagonally
+- fixed tilemap grid offset problem, added a method to check if clicks on the grid are out of bounds
+- Game UI tracks rescuer stats, turn actions, unit AP
+- created framework for tile types and modifiers (grease, fire)
+
 ---
 
 ## Title
